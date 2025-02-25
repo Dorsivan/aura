@@ -14,3 +14,35 @@ Kinda weird that fsGroups requires that, since usually, mounted pvcs are owned b
 fsGroups is rather easy to explain, This is a linux user number that OpenShift permits. The question is what numbers are ok. Is any number that is higher than 1000000000 ok? Or does the range matter?
 
 The seLinuxOptions, is the part I really cant explain, however.
+
+
+OpenShift provides the following default SCCs:
+
+anyuid
+
+hostaccess
+
+hostmount-anyuid
+
+hostnetwork
+
+hostnetwork-v2
+
+lvms-topolvm-node
+
+lvms-vgmanager
+
+machine-api-termination-handler
+
+node-exporter
+
+nonroot
+
+nonroot-v2
+
+privileged
+
+restricted
+
+restricted-v2
+
