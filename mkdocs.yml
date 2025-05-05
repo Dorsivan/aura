@@ -2,3 +2,9 @@ site_name: My Docs
 site_url: https://paladinaura.com
 theme:
   name: material
+nav:
+  - Home: index.md
+  - About: about.md
+  - Health:
+      - Chart: health/grandtable.md
+      - Vitamins: health/Vitamins
