@@ -10,4 +10,4 @@ nav:
   - About: about.md
   - Health:
       - Chart: health/grandtable.md
-      - Vitamins: health/Vitamins
+      - Vitamins: health/Vitamins/*
