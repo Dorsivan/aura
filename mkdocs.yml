@@ -1,5 +1,8 @@
 site_name: My Docs
 site_url: https://paladinaura.com
+plugins:
+   - search
+   - awesome-nav
 theme:
   name: material
 nav:
