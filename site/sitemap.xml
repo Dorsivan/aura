@@ -2,54 +2,202 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://paladinaura.com/</loc>
-         <lastmod>2025-02-25</lastmod>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/about/</loc>
+         <lastmod>2025-05-08</lastmod>
     </url>
     <url>
          <loc>https://paladinaura.com/Certificates/</loc>
-         <lastmod>2025-02-25</lastmod>
+         <lastmod>2025-05-08</lastmod>
     </url>
     <url>
          <loc>https://paladinaura.com/GitLab/</loc>
-         <lastmod>2025-02-25</lastmod>
+         <lastmod>2025-05-08</lastmod>
     </url>
     <url>
          <loc>https://paladinaura.com/GitLab/Helm%20Installation/Gitaly/</loc>
-         <lastmod>2025-02-25</lastmod>
+         <lastmod>2025-05-08</lastmod>
     </url>
     <url>
          <loc>https://paladinaura.com/GitLab/Operator%20Installation/</loc>
-         <lastmod>2025-02-25</lastmod>
+         <lastmod>2025-05-08</lastmod>
     </url>
     <url>
          <loc>https://paladinaura.com/Kubernetes/argoworkflows/</loc>
-         <lastmod>2025-02-25</lastmod>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/OpenShift/debugging/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/OpenShift/operators/</loc>
+         <lastmod>2025-05-08</lastmod>
     </url>
     <url>
          <loc>https://paladinaura.com/OpenShift/securityContext/</loc>
-         <lastmod>2025-02-25</lastmod>
+         <lastmod>2025-05-08</lastmod>
     </url>
     <url>
          <loc>https://paladinaura.com/SELinux/</loc>
-         <lastmod>2025-02-25</lastmod>
+         <lastmod>2025-05-08</lastmod>
     </url>
     <url>
          <loc>https://paladinaura.com/Useful%20Commands/</loc>
-         <lastmod>2025-02-25</lastmod>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Eggs/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/grandtable/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Foods/Fruits/Apple/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Minerals/Calcium/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Minerals/Chloride/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Minerals/Chromium/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Minerals/Copper/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Minerals/Ionide/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Minerals/Iron/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Minerals/Magnesium/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Minerals/Manganese/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Minerals/Molybdenum/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Minerals/Phosphorus/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Minerals/Potassium/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Minerals/Selenium/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Minerals/Sodium/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Minerals/Sulfur/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Minerals/Zinc/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Vitamins/Choline/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Vitamins/Vitamin%20A/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Vitamins/Vitamin%20B1/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Vitamins/Vitamin%20B12/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Vitamins/Vitamin%20B2/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Vitamins/Vitamin%20B3/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Vitamins/Vitamin%20B5/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Vitamins/Vitamin%20B6/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Vitamins/Vitamin%20B7/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Vitamins/Vitamin%20B9/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Vitamins/Vitamin%20C/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Vitamins/Vitamin%20D/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Vitamins/Vitamin%20E/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/health/Vitamins/Vitamin%20K/</loc>
+         <lastmod>2025-05-08</lastmod>
     </url>
     <url>
          <loc>https://paladinaura.com/nushell/</loc>
-         <lastmod>2025-02-25</lastmod>
+         <lastmod>2025-05-08</lastmod>
     </url>
     <url>
          <loc>https://paladinaura.com/rdhd/</loc>
-         <lastmod>2025-02-25</lastmod>
+         <lastmod>2025-05-08</lastmod>
     </url>
     <url>
          <loc>https://paladinaura.com/rdhd/Installation/</loc>
-         <lastmod>2025-02-25</lastmod>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/rdhd/plugins/</loc>
+         <lastmod>2025-05-08</lastmod>
+    </url>
+    <url>
+         <loc>https://paladinaura.com/rdhd/tips-and-tricks/</loc>
+         <lastmod>2025-05-08</lastmod>
     </url>
     <url>
          <loc>https://paladinaura.com/ssh/general-tips/</loc>
-         <lastmod>2025-02-25</lastmod>
+         <lastmod>2025-05-08</lastmod>
     </url>
 </urlset>
