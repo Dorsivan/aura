@@ -117,6 +117,8 @@ spec:
           workspace: shared-workspace
 ```
 
+Pipelines are somewhat similar to tasks in that they are not creating anything when they are being created. Pipelines are later referenced by PipelineRuns, which pass them specific execution parameters (like volumes, args, etc)
+
 ## Events and Triggers
 
 Here is an example of an EventListener:
@@ -177,6 +179,45 @@ spec:
       value: $(body.repository.clone_url)
     - name: gitrevision
       value: $(body.head_commit.id)
+```
+
+```
+apiVersion: triggers.tekton.dev/v1beta1
+kind: TriggerTemplate
+metadata:
+  name: pipeline-template
+spec:
+  params:
+  - name: gitrevision
+    description: The git revision
+    default: main
+  - name: gitrepositoryurl
+    description: The git repository url
+  - name: message
+    description: The message to print
+    default: This is the default message
+  - name: contenttype
+    description: The Content-Type of the event
+  resourcetemplates:
+  - apiVersion: tekton.dev/v1beta1
+    kind: PipelineRun
+    metadata:
+      generateName: simple-pipeline-run-
+    spec:
+      pipelineRef:
+        name: simple-pipeline
+      params:
+      - name: message
+        value: $(tt.params.message)
+      - name: contenttype
+        value: $(tt.params.contenttype)
+      - name: git-revision
+        value: $(tt.params.gitrevision)
+      - name: git-url
+        value: $(tt.params.gitrepositoryurl)
+      workspaces:
+      - name: git-source
+        emptyDir: {}
 ```
 
 ```
