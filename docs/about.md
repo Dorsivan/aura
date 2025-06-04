@@ -1,4 +1,4 @@
-# About the Aura
+# About
 
 The Paladin's Aura promotes information sharing!
 
