@@ -1,6 +1,13 @@
 # Chinese Matchup Notes
 
 ## Byzantines
+
+### Gameplay Plan
+
+Delay Pro Scouts -> Supervise archers -> force reaction to defend berries -> Horseman -> Kill Longbows 
+
+### General Tips
+
 - Pro Scouts of course. sometimes you would play for delayed pro scouts
 - Making early units, going for the archers and horseman pretty good if they make javalins
 - Castle age timing with Knights archers
@@ -63,7 +70,7 @@
 - Go for a 2nd TC if they build a 2nd TC. You need to have a better economy.
 - Seige is rather bad vs them.
 
-## Delhi Sultanate
+## Delhi Sultanate Sultanate
 - Good matchup for Chinese
 - Start spear horsemen (spears first), then go archers when needed.
 - Deny their Sacred Site control.
