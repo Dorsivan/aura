@@ -1,4 +1,4 @@
-# Chinese Matchup Notes
+# Chinese
 
 ## Byzantines
 

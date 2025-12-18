@@ -142,9 +142,13 @@ Javalins are good vs them, they kill feudal MAA and counter their strong ranged 
 
 ### Gameplay Plan
 
+Winery -> 2TC -> Quickly Castle with Gold Horn Tower -> Relics -> Play defensive and get a keep on Big gold
+
+alternatively, I've never tried it (yet) but I feel like Malians can be especially vulnerable to Cata + Cistern of the First Hill FC
 
 ### General Tips
 
+Be wary and scout for early warrior scouts that can harass you and might limit your 2nd TC, you can add spears if there is a really good 2nd TC spot potentially
 
 ## vs Mongols
 
