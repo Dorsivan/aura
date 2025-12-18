@@ -20,9 +20,15 @@
 
 ### Gameplay Plan
 
+Assuming Hybrid map:
+If safe go dock, if not, go to feudal quickly and prio Medi garden on Stone/Gold and Wood
+
+I think you want to go castle very quickly, while trying to get Japanese player to commit more resources than you do. This is kind of map dependent, still somewhat unsure, this does sound like a difficult matchup, but I think you are able to get more lancers than opp faster thanks to supervising smartly.
 
 ### General Tips
 
+Check for Shinobi, who are likely in this matchup, you can try to run around with a few horseman to cause an overreaction from opponents.
+Aim for castle
 
 ## vs Sengoku Daimyo
 
@@ -68,6 +74,8 @@
 
 ### Gameplay Plan
 
+Assuming Hybrid map:
+Fast Feudal -> Play spears and make docs -> Castle quickly
 
 ### General Tips
 

@@ -100,9 +100,11 @@
 
 ### Gameplay Plan
 
+I think you 2TC vs these guys, but I'm not sure
 
 ### General Tips
 
+Javalins are good vs them, they kill feudal MAA and counter their strong ranged units (OOTD knights bad, archer good)
 
 ## vs Delhi Sultanate
 

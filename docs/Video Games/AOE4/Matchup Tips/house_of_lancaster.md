@@ -164,6 +164,8 @@
 
 ### Gameplay Plan
 
+This is a good matchup I think
+Your goal is castle and earls guards. If Ottomans goes for 2 quick mil schools, you can quite heavily with spears, lords and hobelars while castling behind it a bit early with a White Tower. When you age up, if you were able to deny gold reliably and pressure, you can spam earls guards to take map control and possibly win, ottomans have to good answer, especially if opponent was forced to overmake archers.
 
 ### General Tips
 

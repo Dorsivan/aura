@@ -124,9 +124,13 @@
 
 ### Gameplay Plan
 
+Logistics -> Check for 2TC -> If 2TC, go FC Industry, you don't even really need a tower. -> Spam Lancers to kill villagers until White tower.
+Consider using industry to secure Sacred Sites with early towers, or win game with Manjaniqs
 
 ### General Tips
 
+1 Dervish can nullify kings damage no problem
+Make sure not to fall to Council hall, 2 archery ranges are great here, since you can move to desert raiders later
 
 ## vs House of Lancaster
 

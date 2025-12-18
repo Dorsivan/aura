@@ -8,7 +8,6 @@ Delay Pro Scouts -> Supervise archers -> force reaction to defend berries -> Hor
 
 ### General Tips
 
-- Pro Scouts of course. sometimes you would play for delayed pro scouts
 - Making early units, going for the archers and horseman pretty good if they make javalins
 - Castle age timing with Knights archers
 - After relics, we add a Barbican, keep dealing damage, keep harassing, play fast and defend with archers.

@@ -36,9 +36,13 @@
 
 ### Gameplay Plan
 
+You can open with 3 hunting cabins
+If Abbasid players chooses to 2TC, I think you skip the pro scouts and play Knights and Archers to pressure, then castle and go for the timing
 
 ### General Tips
 
+I don't really think you can just Fast Castle here
+Be wary of military wing opening, you might also want to delay pro scouts vs this opening
 
 ## vs Ayyubids
 

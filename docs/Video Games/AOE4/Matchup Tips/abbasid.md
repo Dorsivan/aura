@@ -69,9 +69,13 @@ Seems both 1TC agression and 2TC Work well here
 
 ### Gameplay Plan
 
+Military Wing -> Feudal Fighting -> Castle with eco wing -> Relics, maybe 2TC here
+If you are winning hard in feudal and have a timing, you can go culture wing to finish the game quickly
 
 ### General Tips
 
+If French goes for pro scouts, you have insane pressure potential
+Be careful of 2 knights opening, if you dont have 4 spears, you lose
 
 ## vs Jeanne d’Arc
 
