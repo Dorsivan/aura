@@ -12,6 +12,7 @@
 
 ### Gameplay Plan
 
+If they hippodrom, that means they will have a lot of horseman quickly, better to keep knights near base to defend gold while massing archers, or make a few spears to keep everything secure.
 
 ### General Tips
 

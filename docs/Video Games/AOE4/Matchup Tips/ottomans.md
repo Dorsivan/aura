@@ -68,9 +68,13 @@
 
 ### Gameplay Plan
 
+DA military school, make stable as you age up and delay second mil-school.
+
+Spears and Sipahi play and go castle when it's safe.
 
 ### General Tips
 
+If the map allows for early deer, it can be worth to open with a dark age barracks.
 
 ## vs Jeanne d’Arc
 

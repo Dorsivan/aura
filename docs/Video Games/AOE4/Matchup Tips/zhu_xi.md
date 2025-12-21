@@ -110,6 +110,9 @@ You need to pass through feudal without fighting JD
 
 ### Gameplay Plan
 
+Assuming feudal
+
+Fast dock -> Feudal -> Make and defend more docks -> Castle 
 
 ### General Tips
 
@@ -158,9 +161,12 @@ You need to pass through feudal without fighting JD
 
 ### Gameplay Plan
 
+Assuming Hybrid play
+Be careful of tower rushing a pond, you might be better off just going for a fast feudal, then docks
 
 ### General Tips
 
+Zhuge-nu are very good vs Mangudai, especially in castle
 
 ## vs Golden Horde
 

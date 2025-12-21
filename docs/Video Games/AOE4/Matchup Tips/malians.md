@@ -140,6 +140,9 @@
 
 ### Gameplay Plan
 
+Weird matchup, probably best to boom harder than the opponent
+
+Consider 2TC into cows
 
 ### General Tips
 

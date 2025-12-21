@@ -21,8 +21,15 @@ Delay Pro Scouts -> Supervise archers -> force reaction to defend berries -> Hor
 - Consider Barbican on their gold if they don't have another safe gold.
 
 ## Abbasid
-- Only civ in the game you need to go for a feudal all in versus
-- Make archers, rams, and kill their TC
+
+### Gameplay Plan
+
+If they 2TC: ps -> horseman, archer -> lots of pressure -> castle -> timing attack with upgrades
+
+If they 3TC: kill them in feudal
+
+### General Tips
+
 
 ## Ayyubids
 - Pro Scouts, depending on how much food you have
@@ -80,10 +87,10 @@ Delay Pro Scouts -> Supervise archers -> force reaction to defend berries -> Hor
 - Horsemen are good vs ranged elephants.
 
 ## English
-- You can't punish them early.
-- You need to scout really well vs English.
-- Go for early song and a bit of units and then go castle to defend agression or white tower drop.
-- You can also add your own 2nd TC.
+
+Either go for 2nd TC and play the long game, or:
+
+PS -> 3 horseman -> castle -> SS / Seige all-in
 
 ## The Demon Civ
 - You likely can’t stop the **Manor Boom**.
