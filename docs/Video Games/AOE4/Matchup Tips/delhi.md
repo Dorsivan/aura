@@ -71,6 +71,7 @@ Even if your gold is attacked with spears, I think you still make Dome of the Fa
 
 ### Gameplay Plan
 
+Normal Feudal -> Barracks -> Stables -> Only make blacksmith later
 
 ### General Tips
 
@@ -147,6 +148,9 @@ Don't start with ghazi if the opponent makes Council Hall, macro hard pm wppd
 
 ### Gameplay Plan
 
+Open ghazi and make archers, raid and take good fights
+
+This depends on you being able to kill javs
 
 ### General Tips
 

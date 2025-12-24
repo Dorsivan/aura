@@ -30,10 +30,14 @@ If they 3TC: kill them in feudal
 
 ### General Tips
 
-
 ## Ayyubids
+
+### Gameplay Plan
+
 - Pro Scouts, depending on how much food you have
 - Go for spear archer and cut their gold. Works great if they build a bunch of stables
+
+### General Tips
 
 ## Chinese (mirror)
 - Just play better
@@ -77,20 +81,30 @@ If they 3TC: kill them in feudal
 - Seige is rather bad vs them.
 
 ## Delhi Sultanate Sultanate
-- Good matchup for Chinese
-- Start spear horsemen (spears first), then go archers when needed.
-- Deny their Sacred Site control.
-- A Barbican on middle SS can delay their game plan significantly.
-- You need to hold them with no sacred sites for about 12 minutes.
-- Anticipate Castle Age, catch scholars en route to relics.
-- Late game is Elephants. Bombards ayooo.
-- Horsemen are good vs ranged elephants.
+
+### Gameplay Plan
+
+Feudal -> Spears -> Horseman, fight on Sacred Sites. Anticipate their castle, deny their scholars from quick relic pickup.
+
+Early Barbican for scaling can be good here
+
+### General Tips
+
+You can either kill with a good timing if you have the castle faster since you should have more units, or go for farms and secure the gold, don't make too many knights.
+
+In imp, you need to win kind of fast, before they spiral out of control. Seige push and be hard since they are likely to put a lot of keeps. Them putting keeps allows you to go for farms easier.
+
+Horsemen are good vs ranged elephants.
 
 ## English
+
+### Gameplay Plan
 
 Either go for 2nd TC and play the long game, or:
 
 PS -> 3 horseman -> castle -> SS / Seige all-in
+
+### General Tips
 
 ## The Demon Civ
 - You likely can’t stop the **Manor Boom**.
@@ -114,12 +128,13 @@ PS -> 3 horseman -> castle -> SS / Seige all-in
 - Be careful all-ining vs Mongols that aren't actually going to imp.
 
 ## Ottomans
-- Feudal **all-in could be effective**.
-- Usually ottomans wants to get to imp with full military schools.
-- Spears + Zhugenu for a longer feudal
-- Palace Guards are effective.
-- Spears are rather bad vs them due to the amount of springalds
-- I think the optimal comp is Palace guards, archers and NoB
+
+### Gameplay Plan
+
+ps -> try to castle quickly -> make a few knights, don't make too many! -> Add archers -> in he makes janis, move to spears -> Add NoB -> If he has too much seige, use knights or horseman to kill it, or rely on NoB
+
+### General Tips
+
 
 ## Rus
 - Harass their scouts early with fast unit production.

@@ -180,9 +180,14 @@ Zhuge-nu are very good vs Mangudai, especially in castle
 
 ### Gameplay Plan
 
+Assuming hybrid map
+
+Fast Feudal and start putting docks, play spears and be conservative
+Get castle, make knights to pressure and raid, then move to spear + zhuge-nu, add 2-3 grenades with debuff and NoB
 
 ### General Tips
 
+You do still need cav do properly kill his seige units, Zhuge-nu are the big heroes here, keep your knights alive and fight in an open field vs ottomans to kill his seige units.
 
 ## vs Rus
 

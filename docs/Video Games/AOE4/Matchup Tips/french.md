@@ -37,6 +37,7 @@ If they hippodrom, that means they will have a lot of horseman quickly, better t
 
 ### Gameplay Plan
 
+Pressure 2nd TC, go castle with Royal Institude, kill
 
 ### General Tips
 
@@ -45,6 +46,12 @@ If they hippodrom, that means they will have a lot of horseman quickly, better t
 
 ### Gameplay Plan
 
+Hard matchup
+
+ps -> Knights + Archers
+
+If they FC, deny food and take all deer
+If they play feudal with Desert raiders, move to horseman
 
 ### General Tips
 
@@ -109,6 +116,10 @@ If they hippodrom, that means they will have a lot of horseman quickly, better t
 
 ### Gameplay Plan
 
+ps -> scout for spears, stable and archery range -> fight quickly to remove ghazi.
+If you were unable to take good trades, consider adding spears
+
+In castle, arbs can be good if he goes for elephants with no archers first
 
 ### General Tips
 
