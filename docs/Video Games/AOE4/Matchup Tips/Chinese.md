@@ -48,12 +48,23 @@ Imperial Palace does NOT reveal Yatai (lame)
 They are hard to kill and raid, so unless the map is full of food, better to use your pressure to allow the farm transition
 
 ## Abbasid
-- Only civ in the game you need to go for a feudal all in versus
-- Make archers, rams, and kill their TC
+
+### Gameplay Plan
+
+If they 2TC: ps -> horseman, archer -> lots of pressure -> castle -> timing attack with upgrades
+
+If they 3TC: kill them in feudal
+
+### General Tips
 
 ## Ayyubids
+
+### Gameplay Plan
+
 - Pro Scouts, depending on how much food you have
 - Go for spear archer and cut their gold. Works great if they build a bunch of stables
+
+### General Tips
 
 ## Chinese (mirror)
 - Just play better
@@ -96,31 +107,37 @@ They are hard to kill and raid, so unless the map is full of food, better to use
 - Go for a 2nd TC if they build a 2nd TC. You need to have a better economy.
 - Seige is rather bad vs them.
 
-## Delhi Sultanate
-- Good matchup for Chinese
-- Start spear horsemen (spears first), then go archers when needed.
-- Deny their Sacred Site control.
-- A Barbican on middle SS can delay their game plan significantly.
-- You need to hold them with no sacred sites for about 12 minutes.
-- Anticipate Castle Age, catch scholars en route to relics.
-- Late game is Elephants. Bombards ayooo.
-- Horsemen are good vs ranged elephants.
-
-## English
-- You can't punish them early.
-- You need to scout really well vs English.
-- Go for early song and a bit of units and then go castle to defend agression or white tower drop.
-- You can also add your own 2nd TC.
-
-## House of Lancaster
+## Delhi Sultanate Sultanate
 
 ### Gameplay Plan
 
-Quicky Pro Scouts -> Make units, spears, horseman at least 2 villages -> Barbican if they are very agressive and you are equal in units -> Castle
+Feudal -> Spears -> Horseman, fight on Sacred Sites. Anticipate their castle, deny their scholars from quick relic pickup.
+
+Early Barbican for scaling can be good here
 
 ### General Tips
 
-They are strong af, good luck
+You can either kill with a good timing if you have the castle faster since you should have more units, or go for farms and secure the gold, don't make too many knights.
+
+In imp, you need to win kind of fast, before they spiral out of control. Seige push and be hard since they are likely to put a lot of keeps. Them putting keeps allows you to go for farms easier.
+
+Horsemen are good vs ranged elephants.
+
+## English
+
+### Gameplay Plan
+
+Either go for 2nd TC and play the long game, or:
+
+PS -> 3 horseman -> castle -> SS / Seige all-in
+
+### General Tips
+
+## The Demon Civ
+- You likely can’t stop the **Manor Boom**.
+- Take **all the deer** (consider **7 scouts**!) and rush Castle.
+- Knights and crossbows for the relic game, then try to kill them with trebs, go for their manors.
+- You can try an archer ram push. Especially if they open spears.
 
 ## Malians
 
@@ -137,12 +154,13 @@ They are strong af, good luck
 - Be careful all-ining vs Mongols that aren't actually going to imp.
 
 ## Ottomans
-- Feudal **all-in could be effective**.
-- Usually ottomans wants to get to imp with full military schools.
-- Spears + Zhugenu for a longer feudal
-- Palace Guards are effective.
-- Spears are rather bad vs them due to the amount of springalds
-- I think the optimal comp is Palace guards, archers and NoB
+
+### Gameplay Plan
+
+ps -> try to castle quickly -> make a few knights, don't make too many! -> Add archers -> in he makes janis, move to spears -> Add NoB -> If he has too much seige, use knights or horseman to kill it, or rely on NoB
+
+### General Tips
+
 
 ## Rus
 - Harass their scouts early with fast unit production.

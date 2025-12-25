@@ -44,6 +44,9 @@
 
 ### Gameplay Plan
 
+Agressive in early game, force them to make units, take advantage of their slow castle timing possibly
+
+Shouldn't be hard to dive them in feudal
 
 ### General Tips
 

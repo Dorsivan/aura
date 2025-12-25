@@ -176,6 +176,7 @@ Make sure not to fall to Council hall, 2 archery ranges are great here, since yo
 
 ### Gameplay Plan
 
+Best bet is to contest and deny his pro scouts, dont FC here unless you have very safe gold and deer
 
 ### General Tips
 

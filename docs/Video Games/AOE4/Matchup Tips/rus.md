@@ -128,6 +128,11 @@ Be wary of military wing opening, you might also want to delay pro scouts vs thi
 
 ### Gameplay Plan
 
+3 Hunting Cabins -> Feudal -> PS -> 3 horseman to defend king and harass gold if possible to delay his castle -> Go Castle -> SS and relics
+
+Make knights in castle, if he also makes only knights, make spears, if he goes for inf, make archers and add springalds when too many MAA
+
+Determine if you can win with SS or use it as bait to cause him to move out, and kill with seige push.
 
 ### General Tips
 

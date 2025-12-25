@@ -68,9 +68,13 @@
 
 ### Gameplay Plan
 
+DA military school, make stable as you age up and delay second mil-school.
+
+Spears and Sipahi play and go castle when it's safe.
 
 ### General Tips
 
+If the map allows for early deer, it can be worth to open with a dark age barracks.
 
 ## vs Jeanne d’Arc
 
@@ -124,6 +128,11 @@
 
 ### Gameplay Plan
 
+You can't open with military school
+
+If the opponent makes Council Hall, you need 2 archery ranges, don't bother to make Mehter, since longbows will probably kill it. You can however maybe take the point that gives you 2 of them, that might be really good
+
+If he goes for 2nd TC, just FC and go for Sipahi, be careful of making Janis since he might spam longbows after a few knights
 
 ### General Tips
 

@@ -12,6 +12,7 @@
 
 ### Gameplay Plan
 
+If they hippodrom, that means they will have a lot of horseman quickly, better to keep knights near base to defend gold while massing archers, or make a few spears to keep everything secure.
 
 ### General Tips
 
@@ -36,6 +37,7 @@
 
 ### Gameplay Plan
 
+Pressure 2nd TC, go castle with Royal Institude, kill
 
 ### General Tips
 
@@ -44,6 +46,12 @@
 
 ### Gameplay Plan
 
+Hard matchup
+
+ps -> Knights + Archers
+
+If they FC, deny food and take all deer
+If they play feudal with Desert raiders, move to horseman
 
 ### General Tips
 
@@ -110,6 +118,10 @@ If they make a lot of archers in feudal you can't play HA, but you might be able
 
 ### Gameplay Plan
 
+ps -> scout for spears, stable and archery range -> fight quickly to remove ghazi.
+If you were unable to take good trades, consider adding spears
+
+In castle, arbs can be good if he goes for elephants with no archers first
 
 ### General Tips
 

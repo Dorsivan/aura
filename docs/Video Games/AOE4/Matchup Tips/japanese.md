@@ -164,6 +164,9 @@
 
 ### Gameplay Plan
 
+You can fast castle if the spawn allows it, or:
+
+Fast feudal, Some spears for Sipahi, build mass yumi (40+ with bannerman), if he plays Siphai Archers add about 9 Samurai and kill Sipahi with Yumi
 
 ### General Tips
 
