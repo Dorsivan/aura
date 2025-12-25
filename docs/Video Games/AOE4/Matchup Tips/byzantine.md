@@ -20,7 +20,6 @@
 
 ### Gameplay Plan
 
-
 ### General Tips
 
 
@@ -36,6 +35,7 @@
 
 ### Gameplay Plan
 
+Push them with Spears + Javs, you can maybe kill 2nd TC or deny resources.
 
 ### General Tips
 
@@ -44,6 +44,7 @@
 
 ### Gameplay Plan
 
+Choose javs, push their gold to deny an easy FC
 
 ### General Tips
 
@@ -68,6 +69,9 @@
 
 ### Gameplay Plan
 
+Javs -> slowly secure your resources -> Make some horseman to raid him and prevent him from going on map resources for free -> Castle 
+
+Take stock of your food situation, you may not be able to support cata production and will need to start farming instead, still playing defense.
 
 ### General Tips
 
@@ -100,7 +104,7 @@
 
 ### Gameplay Plan
 
-I think you 2TC vs these guys, but I'm not sure
+I think you 2TC vs these guys if they 2tc, but I'm not sure
 
 ### General Tips
 

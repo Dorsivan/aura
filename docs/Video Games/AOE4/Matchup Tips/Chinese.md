@@ -1,5 +1,16 @@
 # Chinese
 
+## General Tips:
+
+- When delaying pro scouts it can be best to actually make 7 scouts once you do get it
+- Barbican on boar worth, maybe even sending an IO. If you are a goat, you can remember to deposit at Barbican
+- Look for dynamic places to put Barbican in that disrupt your opponent if he is too passive and you have the map control (just don't forget to get wheelbarrow)
+- China is only weak at minute 18 when food runs out. Identify before if you can keep the pressure by securing both boars or extra food on certain maps. If not, you need to go for seige push or farms
+- Barbican at around minute 10-14 is usually ideal. Recognize games where you need to farm and make sure you place a Barbican and start farming early to delay your weak point. 
+- In castle your eco can go crazy, don't forget to rally to wood and add more production buildings.
+- Tithe barns does not work on Pagoda relics
+- Don't go for Yuan before you are done farming
+
 ## Byzantines
 
 ### Gameplay Plan
@@ -57,6 +68,8 @@ If they 3TC: kill them in feudal
 
 ### General Tips
 
+Play tri-comp
+
 ## Ayyubids
 
 ### Gameplay Plan
@@ -85,14 +98,13 @@ If they 3TC: kill them in feudal
 - Knights spears are great in castle
 
 ## Jeanne d’Arc (JD)
-- Likely **similar to French** in early behavior.
-- Be careful of Jeanne abilities.
+
+ps -> spears -> get to castle
 
 ## Knights Templar
-- Still a developing civ, but often go **2TC**.
-- Pro Scouts, FC
-- If they make units, make units and pro scouts
-- Deny their pilgrims
+
+If they get pilgrims, quickly make 2-3 horseman to harass. 
+If they 2tc -> get ps -> castle -> SS control -> seige push
 
 ## Holy Roman Empire (HRE)
 - Your main task is to deny relics.
@@ -133,20 +145,31 @@ PS -> 3 horseman -> castle -> SS / Seige all-in
 
 ### General Tips
 
-## The Demon Civ
-- You likely can’t stop the **Manor Boom**.
-- Take **all the deer** (consider **7 scouts**!) and rush Castle.
-- Knights and crossbows for the relic game, then try to kill them with trebs, go for their manors.
-- You can try an archer ram push. Especially if they open spears.
+## House of Lancaster
+
+### Gameplay Plan
+
+Delay pro scouts -> Make spears -> Get PS -> Horseman if he makes Yeoman -> If he is turbo agressive, Barbican before you age up, villages in base to keep vills safe.
+
+### General Tips
 
 ## Malians
 
 - You play long feudal matchup and kill pit mines.
 
 ## Mongols
+
+### Gameplay Plan
+
+Delay ps -> Make units -> ps -> Castle
+
+Horseman crossbow can be a good counter to Keshik + Cav Archer, can add spears
+
+### General Tips
+
 - Focus on **reacting to Mangudai harass**.
 - In general, the way to counter Cav archers are walls, towers and seige.
-- Archers with pro scouts to kill Mangudai. About 2-3 archers per Mangudai.
+- Archers with pro scouts to kill Mangudai. About 2-3 archers per Mangudai. Horsemen can be bait.
 - Barbican on one side of the woodline and units on the other one.
 - Put mill towards the wood.
 - In castle you would play Knights archer.
@@ -161,8 +184,12 @@ ps -> try to castle quickly -> make a few knights, don't make too many! -> Add a
 
 ### General Tips
 
-
 ## Rus
+
+### Gameplay Plan
+
+Delay ps -> horseman quick and harass their ps -> minute 7, make like 7 scouts and take deer
+
 - Harass their scouts early with fast unit production.
 - Then at around minutet 7-8 you make 7 scouts and pro scouts.
 - Archers in feudal to kill their scouts.

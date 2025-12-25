@@ -4,6 +4,9 @@
 
 ### Gameplay Plan
 
+Agressive feudal. If the opponent goes for longbows, make a lot of archers and run him down, you run much faster than he does.
+
+Go on boar quickly
 
 ### General Tips
 

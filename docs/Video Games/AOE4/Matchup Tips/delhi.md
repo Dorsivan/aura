@@ -4,6 +4,11 @@
 
 ### Gameplay Plan
 
+This is a good matchup imo
+
+Ghazi and Archers. If he makes longbows go heavier on archers.
+
+Take SS, go castle, make elephants
 
 ### General Tips
 
@@ -12,9 +17,11 @@
 
 ### Gameplay Plan
 
+Spam Ghazi then move to archers when he makes spears
 
 ### General Tips
 
+Try to move to castle, you don't want an extended feudal here
 
 ## vs Japanese
 
@@ -73,8 +80,11 @@ Even if your gold is attacked with spears, I think you still make Dome of the Fa
 
 Normal Feudal -> Barracks -> Stables -> Only make blacksmith later
 
+Scout if he goes for archers or not
+
 ### General Tips
 
+Don't make blacksmith before you can produce from scholar barracks and stables constantly (blacksmith minute ~7)
 
 ## vs Jeanne d’Arc
 
@@ -96,6 +106,7 @@ Normal Feudal -> Barracks -> Stables -> Only make blacksmith later
 
 ### Gameplay Plan
 
+Your main goal is to hit castle and secure 3-4 relics to deny their main bonus
 
 ### General Tips
 
@@ -104,6 +115,8 @@ Normal Feudal -> Barracks -> Stables -> Only make blacksmith later
 
 ### Gameplay Plan
 
+Your main goal is to hit castle and secure 3-4 relics to deny their main bonus
+If they 2tc captue sites and go castle quickly after walling 2
 
 ### General Tips
 
@@ -112,6 +125,7 @@ Normal Feudal -> Barracks -> Stables -> Only make blacksmith later
 
 ### Gameplay Plan
 
+Full make Ghazi and make him fold and make spears first. Delay blacksmith and make double stables if he did not go for early spears
 
 ### General Tips
 
