@@ -72,9 +72,11 @@ Be wary of military wing opening, you might also want to delay pro scouts vs thi
 
 ### Gameplay Plan
 
+You can do 3 hunting cabins -> Pro Scouts -> Spears -> Castle
 
 ### General Tips
 
+If they make a lot of archers in feudal you can't play HA, but you might be able to mass knights, depends on how many deer you got.
 
 ## vs Jeanne d’Arc
 
