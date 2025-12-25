@@ -15,10 +15,37 @@ Delay Pro Scouts -> Supervise archers -> force reaction to defend berries -> Hor
 - Their main way of winning is with a cataphract archer timing
 
 ## Japanese
+
+### Gameplay Plan
+
 - Probably the hardest matchup for chinese.
-- Ram push with Japanese to cut out they gold, archers and spears at 8 minutes, force them into yumis.
-- You cut their gold and then go for your own castle age.
+
+If they pure FC and their gold isn't safe, ram push with spears and archers minute 8, deny gold and quickly go castle yourself
+If their gold is safe, you can try the same or Turbo castle as well and hope you outplay. You will have to play safe and start farming.
+
 - Consider Barbican on their gold if they don't have another safe gold.
+
+### General Tips
+
+This is a hard matchup since Japanese has equally or better castle than you do, and they will run out of food much later
+
+Best bet is to be hyper agressive in feudal, you can make more units and keep their yumi numbers low. If they can't get a critical Yumi amount, you should be fine to tech up with an advantage.
+
+If you manage to farm, you are somewhat equal again
+
+## vs Sengoku Daimyo
+
+### Gameplay Plan
+
+Delay ps -> Go for 3 quick horseman, even more if his Yatai aren't safe -> Harass Yatai -> get pro scouts -> if they make Yari, make a few spears -> go castle quickly
+
+Take relics and SS, don't make too many knights if they spam knights, be sure to add spears and even crossbows if you have enough spears and knights to deal with Yumi.
+
+### General Tips
+
+Keep trying to harass Yatai when you can.
+Imperial Palace does NOT reveal Yatai (lame)
+They are hard to kill and raid, so unless the map is full of food, better to use your pressure to allow the farm transition
 
 ## Abbasid
 - Only civ in the game you need to go for a feudal all in versus
@@ -69,7 +96,7 @@ Delay Pro Scouts -> Supervise archers -> force reaction to defend berries -> Hor
 - Go for a 2nd TC if they build a 2nd TC. You need to have a better economy.
 - Seige is rather bad vs them.
 
-## Delhi Sultanate Sultanate
+## Delhi Sultanate
 - Good matchup for Chinese
 - Start spear horsemen (spears first), then go archers when needed.
 - Deny their Sacred Site control.
@@ -85,15 +112,18 @@ Delay Pro Scouts -> Supervise archers -> force reaction to defend berries -> Hor
 - Go for early song and a bit of units and then go castle to defend agression or white tower drop.
 - You can also add your own 2nd TC.
 
-## The Demon Civ
-- You likely can’t stop the **Manor Boom**.
-- Take **all the deer** (consider **7 scouts**!) and rush Castle.
-- Knights and crossbows for the relic game, then try to kill them with trebs, go for their manors.
-- You can try an archer ram push. Especially if they open spears.
+## House of Lancaster
+
+### Gameplay Plan
+
+Quicky Pro Scouts -> Make units, spears, horseman at least 2 villages -> Barbican if they are very agressive and you are equal in units -> Castle
+
+### General Tips
+
+They are strong af, good luck
 
 ## Malians
-- Easy matchup. 
-- You just play Fast Feudal into Horseman and archers and pro scouts.
+
 - You play long feudal matchup and kill pit mines.
 
 ## Mongols
