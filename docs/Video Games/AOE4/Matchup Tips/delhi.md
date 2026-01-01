@@ -62,6 +62,7 @@ Even if your gold is attacked with spears, I think you still make Dome of the Fa
 
 ### Gameplay Plan
 
+Hard matchup, you need to delay blacksmith and start making ghazi and archers quickly. Hope he does not delay pro scouts and harass with ps with ghazi, make archers since he will have spears.
 
 ### General Tips
 
@@ -70,6 +71,7 @@ Even if your gold is attacked with spears, I think you still make Dome of the Fa
 
 ### Gameplay Plan
 
+Hard matchup, you need to delay blacksmith and start making ghazi and archers quickly. Hope he does not delay pro scouts and harass with ps with ghazi, make archers since he will have spears.
 
 ### General Tips
 

@@ -134,7 +134,7 @@ If they make a lot of archers in feudal you can't play HA, but you might be able
 
 Make knights in castle, if he also makes only knights, make spears, if he goes for inf, make archers and add springalds when too many MAA
 
-Determine if you can win with SS or use it as bait to cause him to move out, and kill with seige push.
+Determine if you can win with SS or use it as bait to cause him to move out, and kill with siege push.
 
 ### General Tips
 

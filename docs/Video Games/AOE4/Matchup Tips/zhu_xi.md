@@ -187,7 +187,7 @@ Get castle, make knights to pressure and raid, then move to spear + zhuge-nu, ad
 
 ### General Tips
 
-You do still need cav do properly kill his seige units, Zhuge-nu are the big heroes here, keep your knights alive and fight in an open field vs ottomans to kill his seige units.
+You do still need cav do properly kill his siege units, Zhuge-nu are the big heroes here, keep your knights alive and fight in an open field vs ottomans to kill his siege units.
 
 ## vs Rus
 
