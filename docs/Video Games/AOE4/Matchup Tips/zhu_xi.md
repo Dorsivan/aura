@@ -42,6 +42,10 @@ Aim for castle
 
 ### Gameplay Plan
 
+What sound does a train make?
+If you see culture wing, you ideally go for a zhugenu all in push
+
+Going for castle age seige push is possible but dangerous, you are not as fast as China
 
 ### General Tips
 
