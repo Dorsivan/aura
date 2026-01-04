@@ -66,6 +66,8 @@ If they 2TC: ps -> horseman, archer -> lots of pressure -> castle -> timing atta
 
 If they 3TC: kill them in feudal
 
+I did not try it, but if Abbasid has an exposed spawn (i.e they don't have safe food), a feudal push is logical, and an interesting fast song build for Zhugenus become relevant
+
 ### General Tips
 
 Play tri-comp
