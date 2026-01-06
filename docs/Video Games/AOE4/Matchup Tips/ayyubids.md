@@ -144,6 +144,7 @@ Make sure not to fall to Council hall, 2 archery ranges are great here, since yo
 
 ### Gameplay Plan
 
+3 vills age up -> feudal aggro -> castle + manji
 
 ### General Tips
 

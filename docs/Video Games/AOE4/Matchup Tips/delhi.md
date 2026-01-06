@@ -23,9 +23,11 @@
 Ghazi are the best unit here.
 Play for Sacred Sites and pressure, if japanese goes castle, you can keep making ghazi and wall sacred sites while castling yourself
 
-### General Tips
+If they spear rush
 
-Even if your gold is attacked with spears, I think you still make Dome of the Faith, just heal with Scholar
+ToV -> 2 blacksmith -> Full units
+
+### General Tips
 
 ## vs Sengoku Daimyo
 
