@@ -25,6 +25,19 @@ Delay Pro Scouts -> Supervise archers -> force reaction to defend berries -> Hor
 - They usually go for mass infantry, so NoB is very good
 - Their main way of winning is with a cataphract archer timing
 
+## vs Macedonian Dynasty
+
+### Gameplay Plan
+
+Open spears -> stables + pro scouts -> Archery range if you scout varangian, horseman if you scout archers
+
+You need to get to castle asap as long feudal vs macedonian is bad for you
+
+vs Varangian spam, don't over make spears, instead, invest in archers and make sure to get +1 ranged attack, and damage, and melee shield
+
+### General Tips
+
+
 ## Japanese
 
 ### Gameplay Plan
