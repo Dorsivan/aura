@@ -1,5 +1,12 @@
 # French
 
+## General Tips:
+
+- French is a good late game civ, with cheaper units, good knights and strong trade.
+- When aging up to castle, it is a good idea to send about 4 vills to stone to start getting that keep sometime soon.
+- Early Guild Hall building allows you to either extend the pressure you have over the game by getting more food as food is running out in the map, or go for an imp play, even an imp keep drop.
+- Red Palace in base from Guild Hall usually allows for a relatively safe farm transition
+
 ## vs Byzantine
 
 ### Gameplay Plan

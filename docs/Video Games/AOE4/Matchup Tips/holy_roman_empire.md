@@ -130,6 +130,7 @@ Go on boar quickly
 
 ### General Tips
 
+If an English player ever opens with Council hall vs you, make 2 archery ranges and dominate
 
 ## vs House of Lancaster
 
