@@ -20,9 +20,13 @@
 
 ### Gameplay Plan
 
+Matsuri on wood. If spear rush, go and gather your gold quickly, then age up with 1 yatai.
+
+If they castle rush, I would castle rush myself as well, and make knights + Tanegashima
 
 ### General Tips
 
+Hard matchup I think
 
 ## vs Sengoku Daimyo
 

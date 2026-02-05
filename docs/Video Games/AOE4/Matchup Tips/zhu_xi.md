@@ -47,6 +47,12 @@ If you see culture wing, you ideally go for a zhugenu all in push
 
 Going for castle age seige push is possible but dangerous, you are not as fast as China
 
+On Hybrid Maps
+
+Setup a dock and check his age up. If it's eco wing, make one more dock and age up quick.
+If it's mil wing, fight the feudal to secure 3 docks and age up. Your eco should be better.
+Zhuge-nu push is also interesting here, but you wouldn't be spending food as efficiently this way
+
 ### General Tips
 
 

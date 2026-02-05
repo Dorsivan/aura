@@ -31,6 +31,8 @@ I think you go for the berries at the start of the game, unless they are super s
 
 ### Gameplay Plan
 
+Consider opening berries into hippodrome for quick horseman and harass yatai with a quick merc camp
+
 Longbows, go for a few quick horseman to pressure Yatai
 
 ### General Tips
@@ -75,6 +77,8 @@ Be careful of a very agressive opening, tower your berries, scout for ps or no p
 ## vs French
 
 ### Gameplay Plan
+
+Consider skipping stone in your openning to have spears faster.
 
 Javs -> slowly secure your resources -> Make some horseman to raid him and prevent him from going on map resources for free -> Castle 
 

@@ -48,9 +48,13 @@ Be wary of military wing opening, you might also want to delay pro scouts vs thi
 
 ### Gameplay Plan
 
+Open 3 hunting cabins
+
+Age up and go stable. If desert raider, I would make a horseman and then add spears. You can maybe also make a knight. You are kind of required to pressure his gold, unless his gold is really safe. Even if it is, you can consider pressuring his food as best you can with knights and spears.
 
 ### General Tips
 
+I would delay pro scouts, pressure, and then go pro scouts after that **maybe**
 
 ## vs Chinese
 
