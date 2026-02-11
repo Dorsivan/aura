@@ -94,9 +94,9 @@
 
 If back gold, then just fast castle probably
 
-If the gold is not safe, then try and analyse the opponent. If he fast castles, you should too. If he goes agressive, you will need to go agressive as well.
+If the gold is not safe, then try and analyse the opponent. If he fast castles, you should too. If he goes aggressive, you will need to go aggressive as well.
 
-consider 3 vill age up 
+consider 3 vill age up to feudal and play aggressive since HRE can have an aggressive feudal but they run out of steam
 
 ### General Tips
 
