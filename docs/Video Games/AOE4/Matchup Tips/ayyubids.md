@@ -92,6 +92,11 @@
 
 ### Gameplay Plan
 
+If back gold, then just fast castle probably
+
+If the gold is not safe, then try and analyse the opponent. If he fast castles, you should too. If he goes agressive, you will need to go agressive as well.
+
+consider 3 vill age up 
 
 ### General Tips
 

@@ -4,6 +4,9 @@
 
 ### Gameplay Plan
 
+Open Spears, tower his berries if he does not early gather them, and probably go castle after unless he is turbo agressive
+
+If he does open spears, make sure you go on berries and continue producing, also make a samurai or two, he will run out of food before you do, and you can make cause him to over commit
 
 ### General Tips
 

@@ -177,6 +177,9 @@ This depends on you being able to kill javs
 
 ### Gameplay Plan
 
+If they tower rush. go tower of victory, double blacksmith and extended feudal
+
+If they don't, you gotta open ghazi + spearman quickly and turbo spam, skip a ghazi or 2 to make barracks and delay blacksmith. Similar to vs French
 
 ### General Tips
 
