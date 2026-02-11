@@ -143,6 +143,7 @@ If he goes for 2nd TC, just FC and go for Sipahi, be careful of making Janis sin
 
 ### Gameplay Plan
 
+Play spears + archers to defend, you have plenty of food, and at some point they will either try to push, but you can get extensive fortifications if you feel this is happening, or you will both castle and he will run out of food and steam way before you
 
 ### General Tips
 
