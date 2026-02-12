@@ -131,6 +131,7 @@ Fast dock -> Feudal -> Make and defend more docks -> Castle
 
 ### Gameplay Plan
 
+Great matchup for Zhu Xi. Get pro scouts, make units, deny sacred sites, age up, win
 
 ### General Tips
 

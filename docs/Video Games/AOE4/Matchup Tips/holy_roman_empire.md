@@ -130,7 +130,9 @@ Go on boar quickly
 
 ### General Tips
 
-If an English player ever opens with Council hall vs you, make 2 archery ranges and dominate
+If an English player ever opens with Council hall vs you, make 2 archery ranges and dominate.
+
+More specifically, if it's on a map like Socotra or Mountain Clearing, you might want to open spears to deny boar from English.
 
 ## vs House of Lancaster
 

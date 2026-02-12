@@ -192,6 +192,15 @@ Horseman crossbow can be a good counter to Keshik + Cav Archer, can add spears
 - Trebs + Crossbows very good vs Fast Imp Mongol.
 - Be careful all-ining vs Mongols that aren't actually going to imp.
 
+## vs Golden Horde
+
+### Gameplay Plan
+
+Age up with 3 vills, quickly get pro scouts and make 
+
+### General Tips
+
+
 ## Ottomans
 
 ### Gameplay Plan
