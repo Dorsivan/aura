@@ -40,9 +40,13 @@ ToV -> 2 blacksmith -> Full units
 
 ### Gameplay Plan
 
+Tough matchup. Ghazi vs Yari is fairly equal, but with Daimyo Yari are favored, and he can probably make more than you can thanks to his powerful eco. Best thing I can think of is turbo make only Ghazi to try to force him to make spears, and do your best to focus down the Yatai.
+
+If the does no go for Ryokan you should do as many trades as you can.
 
 ### General Tips
 
+Remember that Yari are faster than Ghazi
 
 ## vs Abbasid
 
@@ -102,9 +106,13 @@ Don't make blacksmith before you can produce from scholar barracks and stables c
 
 ### Gameplay Plan
 
+Good matchup
+
+If they 2tc, make a small batch of Ghazi + Archers, take 3 SS, wall at least 1, and age up, then push and finish with Elephants + Siege.
 
 ### General Tips
 
+Taking the SS denies scholars!
 
 ## vs Holy Roman Empire
 
@@ -188,6 +196,9 @@ If they don't, you gotta open ghazi + spearman quickly and turbo spam, skip a gh
 
 ### Gameplay Plan
 
+You need to be aggressive quickly and deal damage. Quickly make Ghazi and follow up with archers unless he makes Keshik, in which case you might need spears unless. Ghazi can deal with Torguud, and you need to kill enemy spears.
+
+Double blacksmith later, I think with this aggressive opening you should be able to secure the control on SS early on while they are still building up. If they are making Stockyards early, I think it is a good idea to try and commit to destroy a few of them in feudal before aging up.
 
 ### General Tips
 

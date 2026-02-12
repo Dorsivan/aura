@@ -100,7 +100,11 @@ Spears + Javs, be defensive and limit fights you take. Javs kill JD. You should 
 
 ### Gameplay Plan
 
-I dunno, maybe you 2TC? I've never played this matchup, you probably win regardless of what you do
+Check if they 2tc and check the neutral market for Sipahi or Knights.
+
+If they 2tc, try to play aggressive into a castle with Longbows. If they don't 2tc, play normally and win.
+
+Good idea to open horseman to deny pilgrims
 
 ### General Tips
 
@@ -137,9 +141,11 @@ Playing javs + spearman should allow you to be somewhat equal and deny SS proper
 
 ### Gameplay Plan
 
+Scout for a fort cheese. In case you suspect it, age up quickly and make horseman, move away from your own stone to afford stable and units. Pull akritori vills to kill enemy vills before the fort is dropped. 
 
 ### General Tips
 
+Whenever you play vs Tughlaq, always consider a fort cheese if they gather over 850 stone.
 
 ## vs English
 

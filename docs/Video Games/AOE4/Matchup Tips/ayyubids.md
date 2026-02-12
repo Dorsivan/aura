@@ -28,9 +28,20 @@
 
 ### Gameplay Plan
 
+I think you should be able to fast castle, but, in case your gold is not safe, you can either:
+
+1. Age up with 3 vill to feudal and play aggressive to harass Yatai
+2. Be gigachad and go mil wing age up, which will move him into making Yari, and then go for culture wing advancement and Ghulam rush the Sengoku player.
+
+I am not sure the ghulam rush will work because sengoku has lots of eco, but it can be a good react to a Ryokan play.
+
+FC is probably the base play
 
 ### General Tips
 
+Because Sengoku ages up slowly, you will be able to start the castle age up not long after they get to feudal.
+
+Thanks to their great eco, Sengoku and flood your base with a good amount of Yari rather quickly, which can be dangerous if you decide to FC. However, you are likely to be able to gather enough for age up, then quickly make a barracks.
 
 ## vs Abbasid
 
