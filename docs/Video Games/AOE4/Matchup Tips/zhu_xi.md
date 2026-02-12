@@ -120,7 +120,7 @@ You need to pass through feudal without fighting JD
 
 ### Gameplay Plan
 
-Assuming feudal
+Assuming Hybrid Map
 
 Fast dock -> Feudal -> Make and defend more docks -> Castle 
 
@@ -172,7 +172,7 @@ Great matchup for Zhu Xi. Get pro scouts, make units, deny sacred sites, age up,
 
 ### Gameplay Plan
 
-Assuming Hybrid play
+Assuming Hybrid map
 Be careful of tower rushing a pond, you might be better off just going for a fast feudal, then docks
 
 ### General Tips

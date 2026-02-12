@@ -27,7 +27,7 @@
 
 ### Gameplay Plan
 
-Seems both 1TC agression and 2TC Work well here, puppypaw and ML won with both of this strategies
+Seems both 1TC aggression and 2TC Work well here, puppypaw and ML won with both of these strategies
 
 ### General Tips
 

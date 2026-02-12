@@ -1,5 +1,7 @@
 # House of Lancaster
 
+DIVE DIVE DIVE
+
 ## vs Byzantine
 
 ### Gameplay Plan
@@ -44,7 +46,7 @@
 
 ### Gameplay Plan
 
-Agressive in early game, force them to make units, take advantage of their slow castle timing possibly
+Aggressive in early game, force them to make units, take advantage of their slow castle timing possibly
 
 Shouldn't be hard to dive them in feudal
 
