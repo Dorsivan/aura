@@ -185,7 +185,7 @@ Longbows? Javs? Probably Longbows
 
 ### Gameplay Plan
 
-
+Just go take your own berries, go hippodrome, longbows
 
 ### General Tips
 
