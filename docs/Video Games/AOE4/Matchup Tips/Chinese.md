@@ -105,12 +105,13 @@ Play tri-comp
 - Play Knights Crossbows
 
 ## French
+
 - Open **spears** to protect your scouts.
-- Disrupt their pro scouts.
 - Horsemen are great.
 - You wanna take a good fight at minute 8 and go for FC.
-- Your goal is to get to castle.
+- Your goal is to get to castle, but you cannot really go castle before a fight has happened, or you might get dove.
 - Knights spears are great in castle
+
 With enough pressure, you can barbican on the boar, and slowly add farms from minute 12-15 or so
 
 ## Jeanne d’Arc (JD)
@@ -135,7 +136,7 @@ If they 2tc -> get ps -> castle -> SS control -> siege push
 - Go for a 2nd TC if they build a 2nd TC. You need to have a better economy.
 - siege is rather bad vs them.
 
-## Delhi Sultanate Sultanate
+## Delhi Sultanate
 
 ### Gameplay Plan
 
@@ -150,6 +151,18 @@ You can either kill with a good timing if you have the castle faster since you s
 In imp, you need to win kind of fast, before they spiral out of control. siege push and be hard since they are likely to put a lot of keeps. Them putting keeps allows you to go for farms easier.
 
 Horsemen are good vs ranged elephants.
+
+## Tuglahq Dynasty
+
+### Gameplay Plan
+
+They will likely either 2tc or go for a fort cheese. You need to keep a close eye on their stone.
+
+If they start mining stone, be sure to make horsemen, and send them around the map, find the fort if he is moving.
+
+If the fort does go up, try and make sure he cannot place it next to your eco, and then get castle and spam knights into his base, while trebbing him down.
+
+### General Tips
 
 ## English
 
