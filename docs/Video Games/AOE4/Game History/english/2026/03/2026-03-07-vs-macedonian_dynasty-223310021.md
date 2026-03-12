@@ -1,4 +1,4 @@
-# Game Log – english vs macedonian_dynasty
+# english vs macedonian_dynasty
 
 - **Date:** 2026-03-07
 - **Map:** Prairie

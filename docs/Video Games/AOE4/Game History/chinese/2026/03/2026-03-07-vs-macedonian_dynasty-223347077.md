@@ -1,4 +1,4 @@
-# Game Log – chinese vs macedonian_dynasty
+# chinese vs macedonian_dynasty
 
 - **Date:** 2026-03-07
 - **Map:** Four Lakes

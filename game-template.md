@@ -1,4 +1,4 @@
-# Game Log – {civilization} vs {opponent_civ}
+# {civilization} vs {opponent_civ}
 
 - **Date:** {date}
 - **Map:** {map_name}
