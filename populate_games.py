@@ -26,6 +26,17 @@ OUTPUT_DIR = Path("docs/Video Games/AOE4/Game History/Chinese")
 REQUEST_TIMEOUT = 20
 
 
+def extract_year_month(date_str: str) -> tuple[str, str]:
+    """
+    Converts:
+    2026-03-11 -> ("2026", "03")
+    """
+    parts = date_str.split("-")
+    if len(parts) >= 2:
+        return parts[0], parts[1]
+    return "", ""
+
+
 def extract_date(started_at: str) -> str:
     """
     Converts:
@@ -202,10 +213,14 @@ def write_game_file(
 
     rendered = template_text.format(**variables)
 
-    output_dir.mkdir(parents=True, exist_ok=True)
+    year, month = extract_year_month(variables["date"])
+
+    civ_dir = sanitize_filename(variables["civilization"].lower())
+    target_dir = output_dir / civ_dir / year / month
+    target_dir.mkdir(parents=True, exist_ok=True)
 
     filename = sanitize_filename(f"{variables['date']}-vs-{variables['opponent_civ']}-{game_id}.md")
-    output_path = output_dir / filename
+    output_path = target_dir / filename
     output_path.write_text(rendered, encoding="utf-8")
 
 
