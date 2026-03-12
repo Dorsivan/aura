@@ -30,4 +30,4 @@
 ## Replay
 - Reviewed: No
 - Youtube Video:
-- AOE4World Match URL: {aoe4_url}
+- AOE4World Match URL: [View Match]({aoe4_url})

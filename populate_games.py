@@ -26,6 +26,18 @@ OUTPUT_DIR = Path("docs/Video Games/AOE4/Game History")
 REQUEST_TIMEOUT = 20
 
 
+def slugify_name(name: str) -> str:
+    """
+    Converts a player name into a URL-safe slug.
+    Example:
+    'Lunar Spear' -> 'Lunar-Spear'
+    """
+    name = name.strip()
+    name = re.sub(r"\s+", "-", name)
+    name = re.sub(r"[^a-zA-Z0-9\-]", "", name)
+    return name
+
+
 def extract_year_month(date_str: str) -> tuple[str, str]:
     """
     Converts:
@@ -177,8 +189,11 @@ def build_template_variables(
 ) -> dict[str, str]:
     player_team, enemy_team = find_player_and_enemy_teams(game_detail, player_id)
 
-    aoe4_url = API_GAME_DETAIL_URL.format(player_id=player_id, game_id=game_id)
+    player_name = str(player_team.get("name", ""))
+    player_slug = slugify_name(player_name)
 
+    aoe4_url = f"https://aoe4world.com/players/{player_id}-{player_slug}/games/{game_id}"
+    
     date = extract_date(game_detail.get("started_at", ""))
 
     variables = {
