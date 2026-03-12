@@ -231,7 +231,8 @@ def write_game_file(
     year, month = extract_year_month(variables["date"])
 
     civ_dir = sanitize_filename(variables["civilization"].lower())
-    target_dir = output_dir / civ_dir / year / month
+    enemy_civ_dir = sanitize_filename(variables["opponent_civ"].lower())
+    target_dir = output_dir / civ_dir / enemy_civ_dir / year / month
     target_dir.mkdir(parents=True, exist_ok=True)
 
     filename = sanitize_filename(f"{variables['date']}-vs-{variables['opponent_civ']}-{game_id}.md")
