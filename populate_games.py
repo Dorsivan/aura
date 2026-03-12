@@ -21,7 +21,7 @@ PLAYER_IDS = [
 
 STATE_FILE = Path("latest_games.json")
 TEMPLATE_FILE = Path("game-template.md")
-OUTPUT_DIR = Path("docs/Video Games/AOE4/Game History/Chinese")
+OUTPUT_DIR = Path("docs/Video Games/AOE4/Game History")
 
 REQUEST_TIMEOUT = 20
 
