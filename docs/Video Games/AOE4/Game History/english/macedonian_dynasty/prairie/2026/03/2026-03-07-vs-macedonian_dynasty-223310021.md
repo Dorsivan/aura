@@ -3,7 +3,7 @@
 - **Date:** 2026-03-07
 - **Map:** Prairie
 - **Account**: Ashava the Pestilent
-- **Opponent**: DAN_[LTU
+- **Opponent**: DAN_[LTU]
 - **My Civ:** english
 - **Opponent Civ:** macedonian_dynasty
 - **Result:** loss
