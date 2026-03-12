@@ -1,8 +1,9 @@
-# Game Log – {date} vs {opponent_civ}
+# Game Log – {civilization} vs {opponent_civ}
 
 - **Date:** {date}
 - **Map:** {map_name}
-- **User**: {username}
+- **Account**: {username}
+- **Opponent**: {enemy_account}
 - **My Civ:** {civilization}
 - **Opponent Civ:** {opponent_civ}
 - **Result:** {match_result}
