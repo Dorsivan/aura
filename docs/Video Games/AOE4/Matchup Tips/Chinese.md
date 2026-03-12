@@ -8,6 +8,7 @@
 - China is only weak at minute 18 when food runs out. Identify before if you can keep the pressure by securing both boars or extra food on certain maps. If not, you need to go for siege push or farms
 - Barbican at around minute 10-14 is usually ideal. Recognize games where you need to farm and make sure you place a Barbican and start farming early to delay your weak point. 
 - In castle your eco can go crazy, don't forget to rally to wood and add more production buildings.
+- The late game win condition for Chinese is a good Granery transition. Therefore, first keep on Graneries can be a good idea
 - Tithe barns does not work on Pagoda relics
 - Don't go for Yuan before you are done farming
 
@@ -116,7 +117,10 @@ With enough pressure, you can barbican on the boar, and slowly add farms from mi
 
 ## Jeanne d’Arc (JD)
 
-ps -> spears -> get to castle
+ps -> spears -> get to castle.
+
+If JD does not pro scout, then you probably have to make horseman and raid. 
+There is a fine balance to hit vs this civ. You can't go castle too quickly, because you will get dove, but you want to limit feudal fights as much as possible.
 
 ## Knights Templar
 
@@ -162,6 +166,8 @@ If they start mining stone, be sure to make horsemen, and send them around the m
 
 If the fort does go up, try and make sure he cannot place it next to your eco, and then get castle and spam knights into his base, while trebbing him down.
 
+If they 2tc with forts, go castle quickly with pro scouts, go on deer, make knights and take SS, then push normally.
+
 ### General Tips
 
 ## English
@@ -170,7 +176,11 @@ If the fort does go up, try and make sure he cannot place it next to your eco, a
 
 Either go for 2nd TC and play the long game, or:
 
-PS -> 3 horseman -> castle -> SS / siege all-in
+PS -> 3 horseman -> castle -> SS + siege all-in
+
+You have to also harass and raid as much as you can, and transition from knights if the opponent starts making too many crossbows into a more stationary comp.
+
+Be careful of floating gold. With taxes + relics + SS, it is very likely you won't need villagers on gold for some time, and you can move to stone or more wood.
 
 ### General Tips
 
@@ -184,7 +194,9 @@ Delay pro scouts -> Make spears -> Get PS -> Horseman if he makes Yeoman -> If h
 
 ## Malians
 
-- You play long feudal matchup and kill pit mines.
+You have to play long feudal matchup and kill pit mines or delay cows. If you are unable to pressure enough to delay their eco, you will die in castle.
+
+Consider an earlier Barbican to gain a vill lead quicker
 
 ## Mongols
 
@@ -193,6 +205,8 @@ Delay pro scouts -> Make spears -> Get PS -> Horseman if he makes Yeoman -> If h
 Delay ps -> Make units -> ps -> Castle
 
 Horseman crossbow can be a good counter to Keshik + Cav Archer, can add spears
+
+In feudal vs Keshik and Mangudai, spear archer and have horsemen to raid them on food since this is quite food heavy, you have to micro really well.
 
 ### General Tips
 
