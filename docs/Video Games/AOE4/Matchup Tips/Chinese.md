@@ -135,10 +135,8 @@ If they 2tc -> get ps -> castle -> SS control -> siege push
 - If they go for Swabia, you have to do a Knights Crossbows all in with rams.
 
 ## Order of the Dragon (OOTD)
-- Very similar to HRE.
-- Watch out for 2TC and burgrave. In that case, Pro Scouts into FC and then Palace Guards.
-- Go for a 2nd TC if they build a 2nd TC. You need to have a better economy.
-- siege is rather bad vs them.
+- Usually they will 2tc. In that case you might actually want to go for a 2nd TC yourself, since a siege push vs them is a challenge
+- Regardless, make sure you play into the counter units, rather than what are your good units. 
 
 ## Delhi Sultanate
 
