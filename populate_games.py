@@ -17,6 +17,7 @@ PLAYER_IDS = [
     "23054027",
     "24033333",
     "76561198092584942",
+    "25069934"
 ]
 
 STATE_FILE = Path("latest_games.json")
