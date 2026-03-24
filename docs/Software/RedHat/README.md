@@ -1,0 +1,1 @@
+This page hosts information about general things that are related to working with RedHat
