@@ -213,12 +213,4 @@ ps -> try to castle quickly -> make a few knights, don't make too many! -> Add a
 
 ### Gameplay Plan
 
-Delay ps -> horseman quick and harass their ps -> minute 7, make like 7 scouts and take deer
-
-- Harass their scouts early with fast unit production.
-- Then at around minutet 7-8 you make 7 scouts and pro scouts.
-- Archers in feudal to kill their scouts.
-- Wall a lot.
-- You should scale better after minute 20.
-- **Scout the Golden Gate** to track their income plan.
-- Horseman in the relic game to secure three relics. If they build knights you can go for crossbows.
+pro scouts -> horseman to delay him -> spears and archers

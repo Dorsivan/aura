@@ -42,7 +42,9 @@ ToV -> 2 blacksmith -> Full units
 
 Tough matchup. Ghazi vs Yari is fairly equal, but with Daimyo Yari are favored, and he can probably make more than you can thanks to his powerful eco. Best thing I can think of is turbo make only Ghazi to try to force him to make spears, and do your best to focus down the Yatai.
 
-If the does no go for Ryokan you should do as many trades as you can.
+If he does not go for Ryokan you should do as many trades as you can.
+
+Potentially you can skip gold for scholar production and turbo produce ghazi from a stable the moment you age up, only going for gold after you have constant production, put first scholar in stable
 
 ### General Tips
 
