@@ -36,6 +36,8 @@ If they hippodrom, that means they will have a lot of horseman quickly, better t
 
 Early wheelbarrow, check if they barracks. If so, send 6 to gold and get 200, then go age up and make an archer. Skip or delay pro scouts based on spawn
 
+If you have a back gold, I think you actually tower, which means you need to gather 50 wood. If they walk a vill to counter-tower, it will take a long ass time and you can second tower possibly. You can consider this as well if the japanese player has a safe gold, as they might try to FC, and you need to break it.
+
 If they FC, make knights and break their gold and sit on it. When you have done so, quickly go castle.
 
 I am not sure with which landmark, even Valdemar isn't sure, so I guess take stock of the game. I think Royal Institude.
@@ -56,7 +58,11 @@ I think you don't go for early wheelbarrow and instead go for the quick Knight o
 
 ### Gameplay Plan
 
+Go to early deer, don't pro scout.
+
 Pressure 2nd TC, go castle with Royal Institude, kill
+
+Base case scenario, you do some damage with knights + archers, and castle quickly
 
 ### General Tips
 
@@ -68,6 +74,8 @@ Pressure 2nd TC, go castle with Royal Institude, kill
 Hard matchup
 
 ps -> Knights + Archers
+
+You can also go for early deer but you might get harassed. 
 
 If they FC, deny food and take all deer
 If they play feudal with mass Desert raiders, move to horseman, archers

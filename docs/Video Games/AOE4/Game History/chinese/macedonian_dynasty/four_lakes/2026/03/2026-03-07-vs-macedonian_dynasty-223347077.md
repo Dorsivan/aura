@@ -1,0 +1,33 @@
+# chinese vs macedonian_dynasty
+
+- **Date:** 2026-03-07
+- **Map:** Four Lakes
+- **Account**: Ashava the Pestilent
+- **Opponent**: [ODW] coco1666
+- **My Civ:** chinese
+- **Opponent Civ:** macedonian_dynasty
+- **Result:** loss
+- **Game Duration:** 24:36 minutes
+
+## Opening Strategy
+<Short paragraph about your build and plan>
+
+## Opponent Strategy
+<What they did, what civ strengths they used>
+
+## What Went Well
+- 
+
+## What Went Wrong
+- 
+
+## What Should Be Done In The Future
+-
+
+## Key Moments
+- [HH:MM:SS] 
+
+## Replay
+- Reviewed: No
+- Youtube Video:
+- AOE4World Match URL: [View Match](https://aoe4world.com/players/24033333-Ashava-the-Pestilent/games/223347077)

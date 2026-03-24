@@ -137,7 +137,7 @@ Javs + Spearman ? This is probably a hard matchup.
 
 Playing javs + spearman should allow you to be somewhat equal and deny SS properly. You will need to have a few horsemen to deny SS around the map.
 
-## vs Tughlaq Dynasty
+## vs Tuglahq Dynasty
 
 ### Gameplay Plan
 

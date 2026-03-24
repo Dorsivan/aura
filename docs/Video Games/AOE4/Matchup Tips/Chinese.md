@@ -8,6 +8,7 @@
 - China is only weak at minute 18 when food runs out. Identify before if you can keep the pressure by securing both boars or extra food on certain maps. If not, you need to go for siege push or farms
 - Barbican at around minute 10-14 is usually ideal. Recognize games where you need to farm and make sure you place a Barbican and start farming early to delay your weak point. 
 - In castle your eco can go crazy, don't forget to rally to wood and add more production buildings.
+- The late game win condition for Chinese is a good Granery transition. Therefore, first keep on Graneries can be a good idea
 - Tithe barns does not work on Pagoda relics
 - Don't go for Yuan before you are done farming
 
@@ -105,17 +106,21 @@ Play tri-comp
 - Play Knights Crossbows
 
 ## French
+
 - Open **spears** to protect your scouts.
-- Disrupt their pro scouts.
 - Horsemen are great.
 - You wanna take a good fight at minute 8 and go for FC.
-- Your goal is to get to castle.
+- Your goal is to get to castle, but you cannot really go castle before a fight has happened, or you might get dove.
 - Knights spears are great in castle
+
 With enough pressure, you can barbican on the boar, and slowly add farms from minute 12-15 or so
 
 ## Jeanne d’Arc (JD)
 
-ps -> spears -> get to castle
+ps -> spears -> get to castle.
+
+If JD does not pro scout, then you probably have to make horseman and raid. 
+There is a fine balance to hit vs this civ. You can't go castle too quickly, because you will get dove, but you want to limit feudal fights as much as possible.
 
 ## Knights Templar
 
@@ -130,12 +135,10 @@ If they 2tc -> get ps -> castle -> SS control -> siege push
 - If they go for Swabia, you have to do a Knights Crossbows all in with rams.
 
 ## Order of the Dragon (OOTD)
-- Very similar to HRE.
-- Watch out for 2TC and burgrave. In that case, Pro Scouts into FC and then Palace Guards.
-- Go for a 2nd TC if they build a 2nd TC. You need to have a better economy.
-- siege is rather bad vs them.
+- Usually they will 2tc. In that case you might actually want to go for a 2nd TC yourself, since a siege push vs them is a challenge
+- Regardless, make sure you play into the counter units, rather than what are your good units. 
 
-## Delhi Sultanate Sultanate
+## Delhi Sultanate
 
 ### Gameplay Plan
 
@@ -151,13 +154,31 @@ In imp, you need to win kind of fast, before they spiral out of control. siege p
 
 Horsemen are good vs ranged elephants.
 
+## Tuglahq Dynasty
+
+### Gameplay Plan
+
+They will likely either 2tc or go for a fort cheese. You need to keep a close eye on their stone.
+
+If they start mining stone, be sure to make horsemen, and send them around the map, find the fort if he is moving.
+
+If the fort does go up, try and make sure he cannot place it next to your eco, and then get castle and spam knights into his base, while trebbing him down.
+
+If they 2tc with forts, go castle quickly with pro scouts, go on deer, make knights and take SS, then push normally.
+
+### General Tips
+
 ## English
 
 ### Gameplay Plan
 
 Either go for 2nd TC and play the long game, or:
 
-PS -> 3 horseman -> castle -> SS / siege all-in
+PS -> 3 horseman -> castle -> SS + siege all-in
+
+You have to also harass and raid as much as you can, and transition from knights if the opponent starts making too many crossbows into a more stationary comp.
+
+Be careful of floating gold. With taxes + relics + SS, it is very likely you won't need villagers on gold for some time, and you can move to stone or more wood.
 
 ### General Tips
 
@@ -171,7 +192,9 @@ Delay pro scouts -> Make spears -> Get PS -> Horseman if he makes Yeoman -> If h
 
 ## Malians
 
-- You play long feudal matchup and kill pit mines.
+You have to play long feudal matchup and kill pit mines or delay cows. If you are unable to pressure enough to delay their eco, you will die in castle.
+
+Consider an earlier Barbican to gain a vill lead quicker
 
 ## Mongols
 
@@ -180,6 +203,8 @@ Delay pro scouts -> Make spears -> Get PS -> Horseman if he makes Yeoman -> If h
 Delay ps -> Make units -> ps -> Castle
 
 Horseman crossbow can be a good counter to Keshik + Cav Archer, can add spears
+
+In feudal vs Keshik and Mangudai, spear archer and have horsemen to raid them on food since this is quite food heavy, you have to micro really well.
 
 ### General Tips
 
