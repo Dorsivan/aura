@@ -97,11 +97,12 @@ Play tri-comp
 
 ## Chinese (mirror)
 - Just play better
-- Disrupt their pro scouts before going for you own.
+- Defend your pro scouts and then go castle
 
 ## Zhu Xi’s Legacy
 - If you can pro scouts into quick castle, this is great
 - Perhpas mass archers into pro scouts into castle
+- Defend your pro scouts and then go castle
 - Basically you wanna get to castle
 - Play Knights Crossbows
 
