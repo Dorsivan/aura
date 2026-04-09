@@ -10,7 +10,7 @@
 - In castle your eco can go crazy, don't forget to rally to wood and add more production buildings.
 - The late game win condition for Chinese is a good Granery transition. Therefore, first keep on Graneries can be a good idea
 - Tithe barns does not work on Pagoda relics
-- Don't go for Yuan before you are done farming
+- Don't go for Yuan before you are done farming, but go Yuan right after you are done!
 
 ## Byzantines
 
