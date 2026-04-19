@@ -222,7 +222,7 @@ In feudal vs Keshik and Mangudai, spear archer and have horsemen to raid them on
 
 ### Gameplay Plan
 
-Age up with 3 vills, quickly get pro scouts and make 
+Age up with 3 vills, quickly get pro scouts and make spear archer. Your goal is to age up to castle, kill spears and flood with knights. Take advantage of slow age up from them.
 
 ### General Tips
 
